@@ -33,9 +33,10 @@ Desenvolvida com HTML, CSS e JavaScript puro.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anemts&layout=compact&theme=tokyonight&title_color=9b59b6&border_color=6A0DAD&locale=pt-br)
 
-### 📌 Atualmente
+---
+### 📌 Atualmente estou
 
-- 📚 Cursando Tecnologia da Informação
+- 📚 Estudando Tecnologia da Informação
 - 🔍 Explorando diferentes áreas da tecnologia
 - 🚀 Construindo projetos para aprender na prática
 
