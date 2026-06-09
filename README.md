@@ -4,9 +4,7 @@
 
 21 anos · Estudante de Tecnologia da Informação · Explorando o mundo do desenvolvimento
 
-> Estou no início da minha jornada em TI, descobrindo quais áreas mais me interessam.
-> Atualmente, tenho me dedicado ao desenvolvimento front-end — construindo páginas responsivas
-> organizando código com boas práticas e aprendendo a consumir APIs e usar Git no dia a dia.
+> Estou no início da minha jornada em TI, descobrindo quais áreas mais me interessam e atualmente, tenho me dedicado ao desenvolvimento front-end :)
 
 ---
 
