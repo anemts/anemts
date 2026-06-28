@@ -2,9 +2,9 @@
 
 # Olá, eu sou a Daiane 👋
 
-21 anos · Estudante de Tecnologia da Informação · Explorando o mundo do desenvolvimento
+21 anos · Estudante de Sistemas da Informação · Explorando o mundo do desenvolvimento
 
-> Estou no início da minha jornada em TI, descobrindo quais áreas mais me interessam e atualmente, tenho me dedicado ao desenvolvimento front-end :)
+> Estou no início da minha jornada em TI e descobrindo quais áreas mais me interessam. Atualmente, tenho me dedicado ao desenvolvimento front-end :)
 
 ---
 
